@@ -9,7 +9,7 @@ header{
 nav{
     margin-top: 50px;
     margin-inside: 50px;
-}
+} --BEISPIEL
 nav a{
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
